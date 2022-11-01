@@ -9,7 +9,11 @@ function NavBar() {
           <nav className="navbar navbar-expand-xl navbar-light">
             <NavLink className="navbar-brand logo" to="/">
               {/* <img src="assets/images/home-01/logo.png" alt="" />{" "} */}
-              <img src="assets/images/home-01/tagline.jpg" alt="" />
+              <img
+                src="assets/images/home-01/tagline.jpg"
+                alt=""
+                style={{ height: "60px", width: "280px" }}
+              />
             </NavLink>
             <button
               className="navbar-toggler header-button"
