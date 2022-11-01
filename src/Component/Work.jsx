@@ -9,7 +9,7 @@ function Work() {
             <div className="col-lg-12">
               <div className="section-heading">
                 <h2 className="section-heading__title text-white">
-                  How To Work
+                  DONATION PROCESS
                 </h2>
                 <p className="section-heading__subtitle text-white"></p>
               </div>
@@ -47,11 +47,11 @@ function Work() {
                 <div className="work-item__icon">
                   <span className="icon-research"></span>
                 </div>
-                <h5 className="work-item__title text-white">
-                  Register Yourself
-                </h5>
+                <h5 className="work-item__title text-white">REGISTRATION</h5>
                 <p className="work-item__desc text--color-darken">
-                  Firstly register yourself just using email or mobile number.
+                  You need to complete a very simple registration form. Which
+                  contains all required contact information to enter in the
+                  donation process.
                 </p>
               </div>
             </div>
@@ -63,12 +63,11 @@ function Work() {
                 <div className="work-item__icon">
                   <span className="icon-submit"></span>
                 </div>
-                <h5 className="work-item__title text-white">
-                  Choose mode of talking
-                </h5>
+                <h5 className="work-item__title text-white">SCREENING</h5>
                 <p className="work-item__desc text--color-darken">
-                  We provide two type of talking, Chat mode is Absulute free and
-                  Calling mode is paid.
+                  A drop of blood from your finger will take for simple test to
+                  ensure that your blood iron levels are proper enough for
+                  donation process.
                 </p>
               </div>
             </div>
@@ -80,24 +79,24 @@ function Work() {
                 <div className="work-item__icon">
                   <span className="icon-positive-review"></span>
                 </div>
-                <h5 className="work-item__title text-white">Choose Person</h5>
+                <h5 className="work-item__title text-white">DONATION</h5>
                 <p className="work-item__desc text--color-darken">
-                  You have right to choose desirable person to talk in available
-                  list.
+                  After ensuring and passed screening test successfully you will
+                  be directed to a donor bed for donation. It will take only
+                  6-10 minutes.
                 </p>
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
               <div className="work-item text-center">
                 <div className="work-item__icon">
-                  <span className="icon-document"></span>
+                  <span className="icon-check"></span>
                 </div>
-                <h5 className="work-item__title text-white">
-                  Submit Your Feedback
-                </h5>
+                <h5 className="work-item__title text-white">REFRESHMENT</h5>
                 <p className="work-item__desc text--color-darken">
-                  Here you can submit your feedback which help to us in
-                  improving our sevices.
+                  You can also stay in sitting room until you feel strong enough
+                  to leave our center. You will receive awesome drink from us in
+                  donation zone.
                 </p>
               </div>
             </div>
