@@ -51,7 +51,7 @@ function AboutCompany() {
               <div className="about-company__thumb">
                 <img
                   className="w-100"
-                  src="assets/images/home-01/about-company-right-img.png"
+                  src="assets/images/home-01/about.jpg"
                   alt=""
                 />
               </div>
