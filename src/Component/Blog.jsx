@@ -31,7 +31,7 @@ function Blog() {
                 <div className="col-lg-4 col-md-6">
                   <div className="blog-item">
                     <div className="blog-item__thumb">
-                      <a href="blog-details.html">
+                      <a href="#">
                         <img src="assets/images/home-01/3.jpeg" alt="" />
                       </a>
                     </div>
@@ -59,7 +59,7 @@ function Blog() {
                 <div className="col-lg-4 col-md-6">
                   <div className="blog-item">
                     <div className="blog-item__thumb">
-                      <a href="blog-details.html">
+                      <a href="#">
                         <img src="assets/images/home-01/4.jpeg" alt="" />
                       </a>
                     </div>
@@ -88,7 +88,7 @@ function Blog() {
                 <div className="col-lg-4 col-md-6">
                   <div className="blog-item">
                     <div className="blog-item__thumb">
-                      <a href="blog-details.html">
+                      <a href="#">
                         <img src="assets/images/home-01/5.jpeg" alt="" />
                       </a>
                     </div>

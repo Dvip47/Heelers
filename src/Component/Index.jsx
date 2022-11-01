@@ -30,8 +30,8 @@ function Index() {
       <Price />
       <Counterup />
       <AboutService />
-      <Subscribe />
       <Blog />
+      <Subscribe />
       <Footer />
       {/* <UpFooter /> */}
       <GoTop />

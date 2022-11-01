@@ -6,6 +6,7 @@ import { Route, Routes } from "react-router-dom";
 import Chat from "./Component/Chat-Call/Chat";
 import Home from "./Component/Form/Dynamic Form/Home";
 import FeedBack from "./Component/FeedBack";
+import Error from "./Component/Error";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route exact path="/" element={<Index />} />
         <Route exact path="/chat" element={<Chat />} />
         <Route exact path="/call" element={<Chat />} />
+        <Route exact path="*" element={<Error />} />
       </Routes>
       {/* <Home /> */}
     </>

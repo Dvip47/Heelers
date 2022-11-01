@@ -37,7 +37,7 @@ function NavBar() {
                     // data-bs-toggle="dropdown"
                     // aria-expanded="false"
                   >
-                    <a href="#Home" onClick={() => navigate("/")}>
+                    <a href="#" onClick={() => navigate("/")}>
                       Home
                     </a>
                     {/* <NavLink to="/" className="icon-add-1">
@@ -58,12 +58,19 @@ function NavBar() {
 
                 <li className="nav-item dropdown">
                   <div className="nav-link">
-                    <a href="#AboutService" onClick={() => navigate("/")}>
-                      Services
+                    <a href="chat" onClick={() => navigate("/")}>
+                      Team
                     </a>
                   </div>
                 </li>
 
+                <li className="nav-item">
+                  <div className="nav-link">
+                    <a href="#gellery" onClick={() => navigate("/")}>
+                      Gellery
+                    </a>
+                  </div>
+                </li>
                 <li className="nav-item">
                   <div className="nav-link">
                     <a href="#Contact" onClick={() => navigate("/")}>
@@ -72,22 +79,6 @@ function NavBar() {
                     </a>
                   </div>
                 </li>
-                {/* <li className="header-login ms-xl-3 mt-xl-0 mt-4 mb-xl-0 mb-3">
-                  <ul className="login-items-wrapper d-flex align-items-center">
-                    <li className="nav-item">
-                      <div className="nav-link">
-                        <NavLink to="/login">Login</NavLink>
-                      </div>
-                    </li>
-                    <li className="login-items-wrapper__item">
-                      <div className="button-wrapper">
-                        <div className="btn--base bg-one">
-                          <NavLink to="/registation">Register Now</NavLink>
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
-                </li> */}
               </ul>
             </div>
           </nav>

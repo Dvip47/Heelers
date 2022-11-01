@@ -50,8 +50,8 @@ function Chat() {
             <div className="col-lg-10">
               <div className="banner-content text-center">
                 <h1 className="section-heading__title text-white">
-                  Don't Worry <br />
-                  We All Stranger Here To Understand <br /> Your Feelings
+                  Our Mission Awareness Program for Voluntary Blood Donation by
+                  Youth
                 </h1>
               </div>
             </div>
@@ -64,15 +64,12 @@ function Chat() {
             <div className="col-lg-12">
               <div className="section-heading">
                 <h5 className="section-heading__top-title">
-                  {" "}
-                  Our Online Stranger{" "}
+                  Our volunteer Group
                 </h5>
                 {/* <ChatUser /> */}
-                <h2 className="section-heading__title">Pick And Chat </h2>
-                {/* <p className="section-heading__subtitle">
-                  Donec interdum metus et hendrerit aliquet dolor diam satis
-                  ligula eget egestas libero turpis velmi Nunc nulla.
-                </p> */}
+                <h2 className="section-heading__title">
+                  Join And Work For Humanity
+                </h2>
               </div>
             </div>
           </div>
