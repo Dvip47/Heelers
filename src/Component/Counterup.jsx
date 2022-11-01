@@ -24,8 +24,9 @@ function Counterup() {
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
                     <span className="odometer" data-odometer-final="1700">
-                      10
+                      0
                     </span>
+                    +
                   </h1>
                 </div>
                 <p className="para">HAPPY DONORS</p>
@@ -36,7 +37,7 @@ function Counterup() {
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
                     <span className="odometer" data-odometer-final="13">
-                      10
+                      0
                     </span>
                     +
                   </h1>
@@ -49,7 +50,7 @@ function Counterup() {
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
                     <span className="odometer" data-odometer-final="10">
-                      10
+                      0
                     </span>
                     +
                   </h1>

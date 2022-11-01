@@ -18,7 +18,7 @@ function Blog() {
                       </p>
                     </div>
                     <div className="button-wrapper">
-                      <a className="btn--base bg-one" href="registration.html">
+                      <a className="btn--base bg-one" href="#">
                         Register Now
                       </a>
                     </div>
