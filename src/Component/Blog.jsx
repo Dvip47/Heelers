@@ -11,7 +11,7 @@ function Blog() {
                 <div className="col-md-12">
                   <div className="heading-blog d-flex justify-content-between flex-wrap align-items-center">
                     <div className="section-heading style-two mb-4">
-                      <h2 className="section-heading__title">Our Celebraty</h2>
+                      <h2 className="section-heading__title">Donor Opinion</h2>
                       <p className="section-heading__subtitle">
                         {/* <!-- Donec interdum metus et hendrerit aliquet dolor diam satis
                       ligula eget egestas libero turpis velmi Nunc nulla. --> */}
@@ -32,25 +32,26 @@ function Blog() {
                   <div className="blog-item">
                     <div className="blog-item__thumb">
                       <a href="blog-details.html">
-                        <img src="assets/images/download.jfif" alt="" />
+                        <img src="assets/images/home-01/3.jpeg" alt="" />
                       </a>
-                      <div className="blog-item__date">
-                        <h4 className="blog-item__date-time">27</h4>
-                        <span className="blog-item__date-month"> Aug </span>
-                      </div>
                     </div>
                     <div className="blog-item__content">
                       <ul className="blog-item__list">
                         <li className="blog-item__list-item">
-                          Post by : sandeep maheshwari
+                          VIRENDRA KUMAR SINGH
                         </li>
                         <li className="blog-item__list-item">|</li>
-                        <li className="blog-item__list-item">Tag : Breakup</li>
+                        <li className="blog-item__list-item">
+                          DONOR, GHAZIPUR
+                        </li>
                       </ul>
                       <h4 className="blog-item__title">
-                        <a href="blog-details.html">
-                          How to get over to breakup.
-                        </a>
+                        <p>
+                          I proudly donate blood on a regular basis because it
+                          gives others something they desperately need to
+                          survive. Just knowing I can make a difference in
+                          someone else’s life makes me feel great!
+                        </p>
                       </h4>
                     </div>
                   </div>
@@ -59,25 +60,27 @@ function Blog() {
                   <div className="blog-item">
                     <div className="blog-item__thumb">
                       <a href="blog-details.html">
-                        <img src="assets/images/yes.jpg" alt="" />
+                        <img src="assets/images/home-01/4.jpeg" alt="" />
                       </a>
-                      <div className="blog-item__date">
-                        <h4 className="blog-item__date-time">15</h4>
-                        <span className="blog-item__date-month"> Aug</span>
-                      </div>
                     </div>
                     <div className="blog-item__content">
                       <ul className="blog-item__list">
                         <li className="blog-item__list-item">
-                          Post by : Robart turs
+                          ARUSH CHAUDHARY
                         </li>
                         <li className="blog-item__list-item">|</li>
-                        <li className="blog-item__list-item">Tag : Breakup</li>
+                        <li className="blog-item__list-item">
+                          FOUNDER, SANKALP FOUNDATION
+                        </li>
                       </ul>
                       <h4 className="blog-item__title">
-                        <a href="blog-details.html">
-                          Manage Yourself after breakup
-                        </a>
+                        <p>
+                          Our Mission 16000+ Unit Donation Every Year For
+                          Thallesmia, Anemia, Blood Cancer Patient. Awareness
+                          Program for Voluntary Blood Donation by Youth. Just
+                          knowing I can make a difference in someone else’s life
+                          makes me feel great!
+                        </p>
                       </h4>
                     </div>
                   </div>
@@ -86,25 +89,24 @@ function Blog() {
                   <div className="blog-item">
                     <div className="blog-item__thumb">
                       <a href="blog-details.html">
-                        <img src="assets/images/s.webp" alt="" />
+                        <img src="assets/images/home-01/5.jpeg" alt="" />
                       </a>
-                      <div className="blog-item__date">
-                        <h4 className="blog-item__date-time">10</h4>
-                        <span className="blog-item__date-month"> Aug</span>
-                      </div>
                     </div>
                     <div className="blog-item__content">
                       <ul className="blog-item__list">
-                        <li className="blog-item__list-item">
-                          Post by : Haswardhan{" "}
-                        </li>
+                        <li className="blog-item__list-item">KAMIL AZAMI</li>
                         <li className="blog-item__list-item">|</li>
-                        <li className="blog-item__list-item">Tag : Breakup</li>
+                        <li className="blog-item__list-item">
+                          CEO, ROUNDPAY VOICE TECH
+                        </li>
                       </ul>
                       <h4 className="blog-item__title">
-                        <a href="blog-details.html">
-                          Achive Goal after breakup.
-                        </a>
+                        <p>
+                          Heroes don't always wear capes; they sometimes wear
+                          jeans and shirts too! Do good for others by giving
+                          from what you have. Surely, it will come back to you
+                          with greater value - donate blood .
+                        </p>
                       </h4>
                     </div>
                   </div>
