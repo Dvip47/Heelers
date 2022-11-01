@@ -88,10 +88,10 @@ function Feature() {
                 <div className="features-item__icon">
                   <span className="icon-handshake"></span>
                 </div>
-                <h4 className="features-item__title">Experience Stranger</h4>
+                <h4 className="features-item__title">Let's Worktogather</h4>
                 <p className="features-item__desc">
-                  When no one understand you Talking to stanger is best way to
-                  solve your problems.
+                  We all boys work as a team. We are inviting you to join us and
+                  let's make change.
                 </p>
               </div>
             </div>

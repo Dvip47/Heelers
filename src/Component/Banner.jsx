@@ -19,8 +19,10 @@ function Banner() {
                     YOUR DONATION CAN BRING SMILE AT OTHERS FACE
                   </h1>
                   <p className="section-heading__subtitle ">
-                    We All Stranger Here To Understand Your Feelings Becouse We
-                    All Gone Through It...
+                    You can give blood at any of our blood donation venues all
+                    over the Uttar Pradesh. We have more than 2 donor centers
+                    each district and visit thousands of other venues on various
+                    occasions.
                   </p>
                 </div>
                 <div className="button-wrapper">

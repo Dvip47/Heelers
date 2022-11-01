@@ -8,14 +8,16 @@ function AboutCompany() {
           <div className="row gy-5">
             <div className="col-lg-6 pe-lg-5">
               <div className="section-heading style-two">
-                <h2 className="section-heading__title">About Healers</h2>
+                <h2 className="section-heading__title">
+                  About Sankalp Faundation
+                </h2>
                 <p className="section-heading__subtitle">
-                  Healers is a plateform where two stranger meet and talk via
-                  Chat and Voice Call.
-                  <br />
-                  In this modern world everyone busy in there life and no one
-                  has time for for anyone else.But when anyone has any emotioan
-                  problem then no one free for them.
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  Iusto illum fuga eligendi accusamus non, laboriosam hic nemo
+                  reiciendis rerum delectus tempora tempore veritatis in?
+                  Impedit beatae facere blanditiis quas dolores, labore
+                  perferendis fuga harum ullam dolor earum repellat consectetur
+                  eos?
                 </p>
               </div>
               <div className="about-company__wrapper">
@@ -26,9 +28,8 @@ function AboutCompany() {
                   <div className="company-item__content">
                     <h5 className="company-item__title">Our Mission</h5>
                     <p className="company-item__desc">
-                      To provide a plateform where you can share your story and
-                      emotion and no one judge you. We'll never share your
-                      orginal identity with anyone.
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Hic exercitationem eos suscipit?
                     </p>
                   </div>
                 </div>
@@ -39,9 +40,8 @@ function AboutCompany() {
                   <div className="company-item__content">
                     <h5 className="company-item__title">Our Vission</h5>
                     <p className="company-item__desc">
-                      Our vission is return smile to our young generation. No
-                      one will feel alone just becouse of he/she does't have any
-                      true friend.
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Hic exercitationem eos suscipit?
                     </p>
                   </div>
                 </div>
