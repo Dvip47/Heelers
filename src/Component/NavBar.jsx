@@ -48,6 +48,10 @@ function NavBar() {
                       {" "}
                       Home
                     </NavLink> */}
+                    {/* <NavLink to="/" className="icon-add-1">
+                      {" "}
+                      Home
+                    </NavLink> */}
                   </div>
                 </li>
 
