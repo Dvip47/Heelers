@@ -12,7 +12,7 @@ function About() {
                 <div className="about-left__thumb">
                   <img
                     className="w-100"
-                    src="assets/images/home-01/about-img.png"
+                    src="assets/images/home-01/dontate_invite.png"
                     alt=""
                   />
                   {/* <video width="1000" height="600" autoplay>
@@ -28,21 +28,26 @@ function About() {
                     We care your feelings
                   </h2>
                   <p className="section-heading__subtitle">
-                    There is a tough time where we can't see and think actual
-                    things. We will help you to understand actual things.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. In
+                    ipsa ducimus amet! Eos?
                   </p>
                   <p className="section-heading__desc">
                     <li>
-                      If someone ended the relationship with you it doesn’t mean
-                      that there’s anything wrong with you. Try not to take it
-                      personally because relationship break-ups happen all the
-                      time.
+                      Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                      Ducimus odit laborum adipisci delectus voluptatibus velit
+                      libero possimus commodi quas omnis non veniam
+                      exercitationem accusamus repellendus nisi aspernatur, quia
+                      hic! Beatae sunt laboriosam obcaecati quaerat. libero{" "}
+                      <br />
+                      possimus commodi quas omnis non veniam exercitationem
+                      accusamus repellendus nisi aspernatur, quia hic! Beatae
+                      sunt laboriosam obcaecati quaerat.
                     </li>
                   </p>
                 </div>
                 <div className="button-wrapper">
                   <NavLink to="/call" className="btn--base bg-one">
-                    Call Us
+                    Get Appointment
                   </NavLink>
                   <div className="button-wrapper__arrow arrow-two">
                     <img

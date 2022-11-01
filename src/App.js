@@ -5,6 +5,7 @@ import Index from "./Component/Index";
 import { Route, Routes } from "react-router-dom";
 import Chat from "./Component/Chat-Call/Chat";
 import Home from "./Component/Form/Dynamic Form/Home";
+import FeedBack from "./Component/FeedBack";
 
 function App() {
   return (

@@ -10,51 +10,51 @@ function Counterup() {
               <div className="counterup-item text-center">
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
-                    <span className="odometer" data-odometer-final="50">
-                      10
+                    <span className="odometer" data-odometer-final="7000">
+                      0
                     </span>
                     +
                   </h1>
                 </div>
-                <p className="para">Happly Client</p>
+                <p className="para">SUCCESS SMILE</p>
               </div>
             </div>
             <div className="col-lg-3 col-6">
               <div className="counterup-item text-center">
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
-                    <span className="odometer" data-odometer-final="28">
+                    <span className="odometer" data-odometer-final="1700">
                       10
                     </span>
                   </h1>
                 </div>
-                <p className="para">Total Available</p>
+                <p className="para">HAPPY DONORS</p>
               </div>
             </div>
             <div className="col-lg-3 col-6">
               <div className="counterup-item text-center">
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
-                    <span className="odometer" data-odometer-final="100">
+                    <span className="odometer" data-odometer-final="13">
                       10
                     </span>
                     +
                   </h1>
                 </div>
-                <p className="para">Total Register</p>
+                <p className="para">SUCCESS CAMP</p>
               </div>
             </div>
             <div className="col-lg-3 col-6">
               <div className="counterup-item text-center">
                 <div className="counterup-item__number">
                   <h1 className="counterup-item__title">
-                    <span className="odometer" data-odometer-final="600">
+                    <span className="odometer" data-odometer-final="10">
                       10
                     </span>
                     +
                   </h1>
                 </div>
-                <p className="para">Total Chat/Call Minutes</p>
+                <p className="para">TOTAL AWARDS</p>
               </div>
             </div>
           </div>
